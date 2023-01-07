@@ -1,0 +1,17 @@
+{
+  "name": "webscraping-using-javascript",
+  "version": "1.0.0",
+  "description": "How to generate webpage to PDF file using JavaScript? check this out!",
+  "main": "actionLogin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7",
+    "puppeteer": "^19.4.1",
+    "util": "^0.12.5"
+    }
+}
