@@ -7,7 +7,7 @@ How to WebScraping using JavaScript? check this out!
 - Download Source Code
 - Open Project > Run `npm install`
 - Run WhatsApp Web > `npm run start`
-- Test Chat on command ready
+- Running file using node, ex: node getText.js 
 - Enjoy!  
 
 ---
